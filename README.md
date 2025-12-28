@@ -1,6 +1,18 @@
 # 💫 About Me:
 Motivated Computer Science and Engineering student skilled in various technologies and generative AI with hands<br>on experience in projects spanning innovation and business intelligence. Eager to apply analytical, problem-solving, <br>and technical skills to deliver impactful data-driven solutions in dynamic environments.<br><br>Checkout my projects on github..
 
+OPEN SOURCE PROGRAMS I HAVE BEEN A PART OF,
+
+GIRLSCRIPT SUMMER OF CODE 2025 - AMONG TOP 24 % CONTRIBUTORS
+
+HACKTOBERFEST 2025 - SUPER CONTRIBUTOR 
+
+WINTER OF CODE SOCIAL 2026 - PROJECT ADMIN 
+
+YOUTH SEASON OF CODE 2026 - PROJECT ADMIN
+
+SOCIAL WINTER OF CODE 2026 - CONTRIBUTOR
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/aseem-prasad-a40530206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aseemprasad0520@gmail.com) 
