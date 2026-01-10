@@ -1,17 +1,15 @@
 # 💫 About Me:
-Motivated Computer Science and Engineering student skilled in various technologies and generative AI with hands<br>on experience in projects spanning innovation and business intelligence. Eager to apply analytical, problem-solving, <br>and technical skills to deliver impactful data-driven solutions in dynamic environments.<br><br>Checkout my projects on github..
+This is Aseem Prasad. A motivated computer science and engineering student skilled in various technologies and generative AI with hands<br>on experience in projects spanning innovation and business intelligence. Eager to apply analytical, problem-solving, <br>and technical skills to deliver impactful data-driven solutions in dynamic environments.<br><br>Checkout my projects on github..
 
-OPEN SOURCE PROGRAMS I HAVE BEEN A PART OF,
+🚀 Open Source Experience
 
-GIRLSCRIPT SUMMER OF CODE 2025 - AMONG TOP 24 % CONTRIBUTORS
+Actively contributed to and led multiple global open-source initiatives, taking on roles ranging from Contributor to Project Administrator and Community Moderator.
 
-HACKTOBERFEST 2025 - SUPER CONTRIBUTOR 
-
-WINTER OF CODE SOCIAL 2026 - PROJECT ADMIN 
-
-YOUTH SEASON OF CODE 2026 - PROJECT ADMIN
-
-SOCIAL WINTER OF CODE 2026 - CONTRIBUTOR
+🏆 Top 24% Contributor — GirlScript Summer of Code 2025
+⭐ Super Contributor — Hacktoberfest 2025 (Top 10K worldwide)
+👩‍💻 Project Admin — Winter of Code Social 2026, Youth Season of Code 2026
+🌱 Contributor — SWOC 2026, Open Source Connect Global 2026, ECWOC 2026
+🎓 Topic Moderator — Smartly Creators Program by GirlScript 2026
 
 
 ## 🌐 Socials:
