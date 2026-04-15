@@ -9,9 +9,9 @@ Actively contributed to and led multiple global open-source initiatives, taking 
 
 ⭐ Super Contributor — Hacktoberfest 2025 (Top 10K worldwide)
 
-👩‍💻 Project Admin — Winter of Code Social 2026, Youth Season of Code 2026
+👩‍💻 Project Admin — Winter of Code Social 2026, Youth Season of Code 2026 , Nexus Spring of Code 2026
 
-🌱 Contributor — SWOC 2026, Open Source Connect Global 2026, ECWOC 2026, Apertre 3.0
+🌱 Contributor — SWOC 2026, Open Source Connect Global 2026, ECWOC 2026, Apertre 3.0 , Nexus Spring of Code 2026
 
 🎓 Topic Moderator — Smartly Creators Program by GirlScript 2026
 
